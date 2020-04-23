@@ -92,7 +92,7 @@ Look for [detail](https://appen.com/datasets/combined-disaster-response-data/).
 
 You'll find the following directories and files.
 
-```python
+```text
 DisasterResponsePipeline/
 ├──── README.md
 ├──── ETL Pipeline Preparation.ipynb # Notebook to prepare cleaning function
@@ -145,9 +145,3 @@ Thanks to [Figure Eight](https://www.figure-eight.com/) for providing cool data 
 <a id="7"></a>
 ## Conclusion
 **It was instructive, it was worth it.** You could touch the code. Have a enjoy. **:)**
-
-
----
-<p style="text-align: center;"><span style="font-size: 70px; color: #D7D1C9;">&#8912;&#8942;&#8913;</span><em></em></p>
-
-&#8901;

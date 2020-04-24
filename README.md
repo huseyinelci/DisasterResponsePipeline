@@ -109,8 +109,11 @@ DisasterResponsePipeline/
      └──── DisasterResponse.db      # database to save clean data to
 └──── models/
      ├──── train_classifier.py
-     └──── classifier.pkl           # saved model, stored in github repository with 5 small files.
+     └──── classifier.pkl           # saved model (RandomForestClassifier), stored in github repository with 5 small files.
+     └──── cv.pkl                   # saved model (GridSearceCV), stored in github repository with 6 small files.
 ```
+**Notice:** When you want to use cv.pkl or classifier.pkl, oyu must start with first part of files. It will unzip automaticly.
+
 ---
 <p style="text-align: center;"><span style="font-size: 70px; color: #D7D1C9;">&#8912;&#8901;&#8901;&#8901;&#8901;&#8901;&#8913;</span><em></em></p>
 

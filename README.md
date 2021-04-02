@@ -138,7 +138,6 @@ The data In this project is **OpenSource** and owner is [Figure Eight](https://w
 Huseyin ELCI <br>
 [Github](https://github.com/huseyinelci2000)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)
 #### Acknowledgements
-Thanks to [Udacity](https://www.udacity.com/) for editing and setting the projects.
 Thanks to [Figure Eight](https://www.figure-eight.com/) for providing cool data with which we can create a cutting edge project.
 
 ---

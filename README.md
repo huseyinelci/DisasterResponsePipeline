@@ -136,7 +136,7 @@ The [Source](https://appen.com/datasets/combined-disaster-response-data/) owner 
 The data In this project is **OpenSource** and owner is [Figure Eight](https://www.figure-eight.com/). Also, if _you plan to use this database in your article research or else_ you must taken and read main Source in the **Figure Eight repository**.
 #### Authors
 Huseyin ELCI <br>
-[Github](https://github.com/huseyinelci2000)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)
+[Github](https://github.com/huseyinelci)  |  [Kaggle](https://www.kaggle.com/huseyinelci)  |  [Linkedin](https://www.linkedin.com/in/huseyinelci/)
 #### Acknowledgements
 Thanks to [Figure Eight](https://www.figure-eight.com/) for providing cool data with which we can create a cutting edge project.
 
